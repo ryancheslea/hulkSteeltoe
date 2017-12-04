@@ -1,5 +1,5 @@
 fortuneService:
   scheme: http
-  address: localhost:58497
+  address: hulkservice.apps.selma.cf-app.com
   randomFortunePath: api/fortunes/random
   allFortunesPath: api/fortunes/all
