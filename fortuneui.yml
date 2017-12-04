@@ -1,0 +1,5 @@
+fortuneService:
+  scheme: http
+  address: localhost:58497
+  randomFortunePath: api/fortunes/random
+  allFortunesPath: api/fortunes/all
